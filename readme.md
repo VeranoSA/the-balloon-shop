@@ -1,3 +1,8 @@
+# Git Hub Badge
+
+[![Node.js CI](https://github.com/VeranoSA/the-balloon-shop/actions/workflows/node.js.yml/badge.svg)](https://github.com/VeranoSA/the-balloon-shop/actions/workflows/node.js.yml)
+
+
 # The Balloon Shop
 
 A local party shop needs help to keep track of the balloons they are selling.
